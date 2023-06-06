@@ -10,9 +10,6 @@
     padding-top: 10vh;
 }
 
-#sec3{
-    height: 40vh;
-}
 
 #sec4{
     height: 30vh;
@@ -51,9 +48,9 @@
     padding: 15px;
 }
 
-.prof{
-    border-radius: 100%;
-    width: 200px;
-    height: 150px;
 
+
+.persona{
+    width: 250px;
+    margin-top: 30px;
 }

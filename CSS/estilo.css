@@ -1,9 +1,32 @@
+#logo1{
+    height: 100px;
+}
 
+#butao{
+    background-color: #A37A46;
+    color: white;
+    border-color: black;
+}
+
+#butao2{
+    color: white;
+    margin-right: 40px;
+}
 
 .sec{
     height: 100vh;
 }
 
+.texto{
+    color: #A37A46;
+}
+
+#agendar{
+    background-color: #8A1921; 
+    border-color: #8A1921;
+    padding: 15px;
+    margin-top: 25px;
+}
 
 #sec2{
     height: 30vh;
@@ -14,6 +37,16 @@
 #sec4{
     min-height: 30vh;
     padding-top: 10vh;
+}
+
+.cards{
+    background-color: #A37A46;
+}
+
+.tcards{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 #prof{

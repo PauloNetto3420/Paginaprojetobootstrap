@@ -5,9 +5,7 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
-#logo1{
-    height: 50px;
-}
+
 
 
 #butao{
@@ -181,4 +179,63 @@ color: white;
 
 .formulario{
     width: 500px;
+}
+
+.fale{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-32)/var(--unnamed-line-spacing-39) var(--unnamed-font-family-montserrat);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-a37a46);
+    text-align: left;
+    font: normal normal bold 32px/39px Montserrat;
+    letter-spacing: 0px;
+    color: #A37A46;
+    opacity: 1;
+}
+
+.inp1{
+    top: 601px;
+    left: 140px;
+    width: 100%;
+    height: 336px;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--unnamed-color-393939);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 2px 8px #00000029;
+    border: 1px solid #393939;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.inp01{
+    top: 961px;
+    left: 140px;
+    width: 164px;
+    height: 64px;
+    /* UI Properties */
+    background: var(--unnamed-color-c2c2c2) 0% 0% no-repeat padding-box;
+    background: #C2C2C2 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.sub1{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-24)/var(--unnamed-line-spacing-29) var(--unnamed-font-family-montserrat);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-a37a46);
+    text-align: left;
+    font: normal normal bold 28px/32px Montserrat;
+    letter-spacing: 0px;
+    color: #A37A46;
+    opacity: 1;
+}
+
+.tex{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-300) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-montserrat);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal 300 16px/19px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
 }
